@@ -1,0 +1,6 @@
+Model: distilbert-base-uncased with LoRA
+LoRA r=16, alpha=32, dropout=0.1
+Target Modules: ['q_lin', 'v_lin', 'out_lin']
+Learning Rate: 0.0005
+Trainable LoRA Parameters: 1034498
+Validation Accuracy: 0.9002

@@ -1,0 +1,3 @@
+Model: distilbert-base-uncased
+Total Parameters: 66955010
+Validation Accuracy: 0.9094
